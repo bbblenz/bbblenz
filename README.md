@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bbblenz
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Satck Development 
+- 🌱 I’m currently learning Full Satck Development. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @bbblenz on instagram 
+- 📫 How to reach me: @bbblenz on instagram/discord/github 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fortune smiles upon you when the light journeys billions of kilometers from distant stars, only to grace your eyes with its brilliance.
 
