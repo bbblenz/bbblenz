@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Full Satck Development. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @bbblenz on instagram/discord/github 
